@@ -1,11 +1,3 @@
-/**
-* @file TiMP.h
-* @author Кувшинов М.В.
-* @version 1.0.0
-* @brief Шифрование методом табличной перестановки
-* @date 27.11.2022
-* @copyright ИБСТ ПГУ
-*/
 #pragma once
 #include <vector>
 #include <string>
