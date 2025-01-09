@@ -1,0 +1,30 @@
+\begin{theindex}
+
+  \item {Cipher}, \hyperpage{7}
+    \subitem {decrypt}, \hyperpage{8}
+    \subitem {getValidCipherText}, \hyperpage{8}
+    \subitem {getValidKey}, \hyperpage{8}
+    \subitem {getValidOpenText}, \hyperpage{9}
+  \item {cipher\_error}, \hyperpage{10}
+    \subitem {cipher\_error}, \hyperpage{10, 11}
+
+  \indexspace
+
+  \item {decrypt}
+    \subitem {Cipher}, \hyperpage{8}
+
+  \indexspace
+
+  \item {getValidCipherText}
+    \subitem {Cipher}, \hyperpage{8}
+  \item {getValidKey}
+    \subitem {Cipher}, \hyperpage{8}
+  \item {getValidOpenText}
+    \subitem {Cipher}, \hyperpage{9}
+
+  \indexspace
+
+  \item {TiMP.cpp}, \hyperpage{13}
+  \item {TiMP.h}, \hyperpage{13}
+
+\end{theindex}
